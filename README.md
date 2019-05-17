@@ -1,7 +1,7 @@
 # Tutorial NextJS
 
 ## Lesson 00 | Präsentation
-* [Präsentation](lesson-01/nextjs.pptx)
+* [Präsentation](nextjs.pptx)
 
 ## Lesson 01 | Demo
 Dieser Step zeigt eine Beispielapplikation, wie wir sie bisher entwickelt hätte.
